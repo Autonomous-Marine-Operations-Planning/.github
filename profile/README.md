@@ -1,1 +1,1 @@
-# .github
+The Autonomous Marine Operations Planning (AMOP) project is developing a suite of Artificial Intelligence (AI) methods that aim to optimise the efficiency of Antarctic field operations, while maximising science delivery. A core focus of this work is providing AI decision support for efficient management of the BAS marine fleet. This includes, but is not limited to, our research ship the RRS Sir David Attenborough (SDA) and our fleet of autonomous marine vehicles, such as Boaty McBoatface.
